@@ -99,13 +99,13 @@ git clone https://github.com/VikumPrabhath/bluewave-website.git
 
 
 ## 🤝 Credits
-**Client:** BlueWave Eco Solutions (Assignment Project)
+**Client :** BlueWave Eco Solutions (Assignment Project)
 
-**Developer:** Vikum Prabhath
+**Developer :** Vikum Prabhath
 
-**Tools:** VS Code, DeepSeek AI, Gemini AI
+**Tools :** VS Code, DeepSeek AI, Gemini AI
 
-**Date:** December 2025
+**Date :** December 2025
 
 
 ## 📄 License
